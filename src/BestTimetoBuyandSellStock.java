@@ -21,12 +21,4 @@ public class BestTimetoBuyandSellStock {
 
         return max-prices[min];
     }
-
-//    private int indexofSmallest(int[] prices){
-//        int min = 0;
-//        for (int i = 0; i < prices.length; i++) {
-//            if (prices[min]<prices[i])min = i;
-//        }
-//        return min;
-//    }
 }
