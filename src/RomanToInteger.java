@@ -23,5 +23,4 @@ public class RomanToInteger {
 
             return ans + roman[s.charAt(s.length() - 1)];
     }
-
 }
